@@ -52,7 +52,7 @@ android {
 
 dependencies {
     implementation(project(":core"))
-    implementation(project(":data:youtube"))
+    implementation(project(":domain"))
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)

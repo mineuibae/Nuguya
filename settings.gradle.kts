@@ -16,3 +16,4 @@ rootProject.name = "Nuguya"
 include(":app")
 include(":core")
 include(":data:youtube")
+include(":domain")
