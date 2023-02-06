@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/core" />
             <option value="$PROJECT_DIR$/data" />
             <option value="$PROJECT_DIR$/data/youtube" />
+            <option value="$PROJECT_DIR$/design" />
             <option value="$PROJECT_DIR$/domain" />
           </set>
         </option>
